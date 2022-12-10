@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "question" : "How can react work ?",
+            "incorrect_answer": [
+                "web socket dom",
+                "real dom",
+                "components"
+            ],
+            "correct_answer":"virtual dom"
+        }
+    ]
+}
